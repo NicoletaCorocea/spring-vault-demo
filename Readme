@@ -1,0 +1,5 @@
+run >docker-compose up -d
+open localhost:8200
+use the token from bootstrap.yml
+add login and password secrets in secret/ engine; use the path 'application'
+run the project
